@@ -1,5 +1,4 @@
-# Sales-Analysis
-# Startup-Expansion project
+# Sales-Analysis Castpone Project
 
 # Overview
 Welcome to the Sales Data Analysis Project!
