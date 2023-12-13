@@ -8,10 +8,15 @@ This sales data analysis project aims to derive actionable insights from histori
 
 # Table of Contents
 Project Highlights
+
 Key Insights
+
 Technologies Used
+
 Data Sources
+
 Analysis and Visualization
+
 Contact
 
 # Project Highlights
